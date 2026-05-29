@@ -23,5 +23,6 @@
 
 Problem tốt không phải problem nghe “AI” nhất, mà là problem có actor, workflow, bottleneck và metric rõ. Việc chấm điểm giúp nhóm tránh chọn chủ đề quá rộng như AI tutor hoặc agent tự động toàn phần. Với bài deadline tracker, AI chỉ nên hỗ trợ bước trích xuất deadline, còn người dùng vẫn cần review trước khi lưu.
 
-Nếu làm lại, tôi sẽ validate sớm hơn với nhiều sinh viên hơn để baseline thời gian 60–80 phút/tuần có bằng chứng mạnh hơn.
+Nếu làm lại:
+> tôi sẽ validate sớm hơn với nhiều sinh viên hơn để baseline thời gian 60–80 phút/tuần có bằng chứng mạnh hơn.
 

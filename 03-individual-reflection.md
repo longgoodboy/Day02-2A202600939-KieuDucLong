@@ -10,7 +10,7 @@
 | Problem Statement | Viết Problem Statement v0/v1/final | Nhóm có bản mô tả problem rõ actor, workflow, bottleneck, impact, metric và boundary |
 | Decision | Chốt scope nhỏ cho MVP | Nhóm tránh làm agent quá rộng và tập trung vào workflow có human review |
 
-## Bảng dùng AI trong reflection của Long
+## Bảng dùng AI trong reflection
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai/hời hợt ở đâu? | Tôi sửa gì |
 |---|---|---|---|---|
